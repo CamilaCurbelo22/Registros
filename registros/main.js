@@ -1,5 +1,5 @@
 
-// Definimos el registro con un array con objetos
+// Definimos el registro con un array
 let registroPersonas = [
 {
     nombre: "Camila",
